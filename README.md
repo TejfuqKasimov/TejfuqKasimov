@@ -145,9 +145,9 @@ Platforms:
 
 ## Contact
 
-- GitHub: [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- Telegram: YOUR_TELEGRAM
-- Email: YOUR_EMAIL
+- GitHub: [YOUR_USERNAME](https://github.com/TejfuqKasimov)
+- Telegram: @Teifuk
+- Email: teifukkasimov@yandex.ru
 
 
 <!--
