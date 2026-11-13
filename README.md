@@ -146,15 +146,15 @@ Platforms:
 ## Contact
 
 <p align="left">
-  <a href="https://t.me/YOUR_TELEGRAM">
+  <a href="https://t.me/Teifuk">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://t.me/YOUR_TELEGRAM">@YOUR_TELEGRAM</a>
+  <a href="https://t.me/YOUR_TELEGRAM">@Teifuk</a>
   <br>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:teifukkasimov@yandex.ru">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">YOUR_EMAIL</a>
+  <a href="mailto:YOUR_EMAIL">teifukkasimov@yandex.ru</a>
   <br>
   <a href="https://github.com/TejfuqKasimov">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
