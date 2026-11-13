@@ -116,9 +116,9 @@ Interested in algorithmic problem-solving, mathematical challenges and competiti
 
 Platforms:
 
-- [Codeforces](https://codeforces.com/)
-- [LeetCode](https://leetcode.com/)
-- [AtCoder](https://atcoder.jp/)
+- [Codeforces](https://codeforces.com/profile/Tofik_Kasimov)
+- [LeetCode](https://leetcode.com/u/Tofiq_K/)
+- [acmp.ru](https://acmp.ru/)
 
 ## GitHub Statistics
 
